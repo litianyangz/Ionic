@@ -25,6 +25,7 @@ export class HomePage {
     }, 1000)
   }
   key(event: any) { 
+    console.log("11")
   }
 
 }
